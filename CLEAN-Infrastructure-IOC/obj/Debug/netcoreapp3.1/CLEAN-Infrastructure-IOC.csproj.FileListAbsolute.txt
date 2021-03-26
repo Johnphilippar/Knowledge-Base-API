@@ -1,0 +1,16 @@
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-IOC.AssemblyInfoInputs.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-IOC.AssemblyInfo.cs
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-IOC.csproj.CoreCompileInputs.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\bin\Debug\netcoreapp3.1\CLEAN-Infrastructure-IOC.deps.json
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\bin\Debug\netcoreapp3.1\CLEAN-Infrastructure-IOC.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\bin\Debug\netcoreapp3.1\CLEAN-Infrastructure-IOC.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\bin\Debug\netcoreapp3.1\CLEAN-Application.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\bin\Debug\netcoreapp3.1\CLEAN-Domain.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\bin\Debug\netcoreapp3.1\CLEAN-Infrastructure-DATA.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\bin\Debug\netcoreapp3.1\CLEAN-Application.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\bin\Debug\netcoreapp3.1\CLEAN-Domain.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\bin\Debug\netcoreapp3.1\CLEAN-Infrastructure-DATA.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-IOC.csprojAssemblyReference.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-IOC.csproj.CopyComplete
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-IOC.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-IOC\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-IOC.pdb

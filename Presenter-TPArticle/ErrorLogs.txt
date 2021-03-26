@@ -1,0 +1,124 @@
+﻿27/01/2021 12:45:37 am - The method or operation is not implemented.
+27/01/2021 12:51:37 am - The method or operation is not implemented.
+27/01/2021 12:52:30 am - The method or operation is not implemented.
+02/02/2021 8:32:14 pm - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+02/02/2021 9:42:19 pm - An error occurred while updating the entries. See the inner exception for details.
+02/02/2021 9:42:22 pm - An error occurred while updating the entries. See the inner exception for details.
+02/02/2021 9:42:26 pm - An error occurred while updating the entries. See the inner exception for details.
+02/02/2021 9:42:40 pm - An error occurred while updating the entries. See the inner exception for details.
+02/02/2021 9:42:41 pm - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 12:23:59 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 12:24:07 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 12:29:29 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 12:29:35 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 12:45:43 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 12:57:12 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 12:57:52 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 12:59:03 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:25:24 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:25:31 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:25:56 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:00 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:00 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:00 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:01 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:08 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:13 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:19 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:21 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:37 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:39 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:26:42 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:27:44 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:27:47 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 1:30:52 am - An error occurred while updating the entries. See the inner exception for details.
+03/02/2021 2:10:39 am - An error occurred while updating the entries. See the inner exception for details.
+04/02/2021 1:10:00 am - An error occurred while updating the entries. See the inner exception for details.
+04/02/2021 1:10:02 am - An error occurred while updating the entries. See the inner exception for details.
+04/02/2021 1:10:11 am - An error occurred while updating the entries. See the inner exception for details.
+04/02/2021 1:11:58 am - An error occurred while updating the entries. See the inner exception for details.
+04/02/2021 1:23:26 am - An error occurred while updating the entries. See the inner exception for details.
+04/02/2021 1:30:51 am - The instance of entity type 'ArticleModel' cannot be tracked because another instance with the same key value for {'ARTICLE_ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+04/02/2021 1:30:53 am - The instance of entity type 'ArticleModel' cannot be tracked because another instance with the same key value for {'ARTICLE_ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+04/02/2021 1:31:02 am - The instance of entity type 'ArticleModel' cannot be tracked because another instance with the same key value for {'ARTICLE_ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+04/02/2021 1:31:06 am - The instance of entity type 'ArticleModel' cannot be tracked because another instance with the same key value for {'ARTICLE_ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+04/02/2021 1:32:00 am - An error occurred while updating the entries. See the inner exception for details.
+04/02/2021 1:33:08 am - An error occurred while updating the entries. See the inner exception for details.
+04/02/2021 1:34:39 am - An error occurred while updating the entries. See the inner exception for details.
+04/02/2021 1:37:39 am - An error occurred while updating the entries. See the inner exception for details.
+04/02/2021 3:33:25 am - Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+04/02/2021 3:33:28 am - Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+04/02/2021 3:33:31 am - Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+04/02/2021 3:33:31 am - Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+04/02/2021 3:39:43 am - Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+04/02/2021 3:39:44 am - Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+04/02/2021 3:39:47 am - Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+08/02/2021 4:11:43 pm - Could not find a part of the path 'C:\Users\JPPAR\source\repos\TPArticle\Presenter-TPArticle\Image-File\string.txt'.
+08/02/2021 4:12:29 pm - Could not find a part of the path 'C:\Users\JPPAR\source\repos\TPArticle\Presenter-TPArticle\Image-File\hehehehehe.txt'.
+08/02/2021 4:14:41 pm - Could not find a part of the path 'C:\Users\JPPAR\source\repos\TPArticle\Presenter-TPArticle\Image-File\hehehehehe.txt'.
+09/02/2021 1:03:39 am - The instance of entity type 'ArticleModel' cannot be tracked because another instance with the same key value for {'ARTICLE_ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+09/02/2021 1:03:47 am - The instance of entity type 'ArticleModel' cannot be tracked because another instance with the same key value for {'ARTICLE_ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+11/02/2021 12:36:17 am - An error occurred while updating the entries. See the inner exception for details.
+11/02/2021 12:38:45 am - An error occurred while updating the entries. See the inner exception for details.
+11/02/2021 12:39:55 am - An error occurred while updating the entries. See the inner exception for details.
+11/02/2021 10:45:50 pm - Object reference not set to an instance of an object.
+11/02/2021 10:46:30 pm - Object reference not set to an instance of an object.
+11/02/2021 10:54:09 pm - Object reference not set to an instance of an object.
+11/02/2021 10:54:29 pm - An error occurred while updating the entries. See the inner exception for details.
+11/02/2021 10:54:47 pm - An error occurred while updating the entries. See the inner exception for details.
+11/02/2021 10:55:52 pm - An error occurred while updating the entries. See the inner exception for details.
+11/02/2021 11:10:51 pm - An error occurred while updating the entries. See the inner exception for details.
+11/02/2021 11:12:12 pm - Object reference not set to an instance of an object.
+11/02/2021 11:16:50 pm - Object reference not set to an instance of an object.
+11/02/2021 11:18:35 pm - Object reference not set to an instance of an object.
+26/02/2021 10:44:21 pm - Handler was not found for request of type MediatR.IRequestHandler`2[CLEAN_Domain.Commands.CommentsCommand,System.Boolean]. Register your handlers with the container. See the samples in GitHub for examples.
+26/02/2021 11:10:57 pm - Handler was not found for request of type MediatR.IRequestHandler`2[CLEAN_Domain.Commands.CommentsCommand,System.Boolean]. Register your handlers with the container. See the samples in GitHub for examples.
+26/02/2021 11:13:38 pm - Handler was not found for request of type MediatR.IRequestHandler`2[CLEAN_Domain.Commands.CommentsCommand,System.Boolean]. Register your handlers with the container. See the samples in GitHub for examples.
+26/02/2021 11:28:28 pm - Handler was not found for request of type MediatR.IRequestHandler`2[CLEAN_Domain.Commands.CommentsCommand,System.Boolean]. Register your handlers with the container. See the samples in GitHub for examples.
+26/02/2021 11:29:50 pm - Handler was not found for request of type MediatR.IRequestHandler`2[CLEAN_Domain.Commands.CommentsCommand,System.Boolean]. Register your handlers with the container. See the samples in GitHub for examples.
+26/02/2021 11:31:23 pm - Handler was not found for request of type MediatR.IRequestHandler`2[CLEAN_Domain.Commands.CommentsCommand,System.Boolean]. Register your handlers with the container. See the samples in GitHub for examples.
+26/02/2021 11:36:43 pm - Handler was not found for request of type MediatR.IRequestHandler`2[CLEAN_Domain.Commands.CommentsCommand,System.Boolean]. Register your handlers with the container. See the samples in GitHub for examples.
+27/02/2021 1:08:16 am - Handler was not found for request of type MediatR.IRequestHandler`2[CLEAN_Domain.Commands.CommentsCommand,System.Boolean]. Register your handlers with the container. See the samples in GitHub for examples.
+27/02/2021 3:21:52 am - Handler was not found for request of type MediatR.IRequestHandler`2[CLEAN_Domain.Commands.CommentsCommand,System.Boolean]. Register your handlers with the container. See the samples in GitHub for examples.
+01/03/2021 8:58:10 pm - Unable to resolve service for type 'CLEAN_Application.Interface.ICommentService' while attempting to activate 'Presenter_TPArticle.Controllers.CommentController'.
+01/03/2021 8:58:37 pm - Unable to resolve service for type 'CLEAN_Application.Interface.ICommentService' while attempting to activate 'Presenter_TPArticle.Controllers.CommentController'.
+01/03/2021 9:00:53 pm - Unable to resolve service for type 'CLEAN_Application.Interface.ICommentService' while attempting to activate 'Presenter_TPArticle.Controllers.CommentController'.
+01/03/2021 9:04:31 pm - Unable to resolve service for type 'CLEAN_Application.Interface.ICommentService' while attempting to activate 'Presenter_TPArticle.Controllers.CommentController'.
+01/03/2021 9:52:03 pm - An error occurred while updating the entries. See the inner exception for details.
+01/03/2021 9:52:46 pm - An error occurred while updating the entries. See the inner exception for details.
+01/03/2021 9:53:00 pm - An error occurred while updating the entries. See the inner exception for details.
+01/03/2021 9:53:12 pm - An error occurred while updating the entries. See the inner exception for details.
+01/03/2021 9:54:02 pm - An error occurred while updating the entries. See the inner exception for details.
+01/03/2021 9:57:56 pm - An error occurred while updating the entries. See the inner exception for details.
+01/03/2021 9:58:03 pm - An error occurred while updating the entries. See the inner exception for details.
+01/03/2021 9:59:31 pm - An error occurred while updating the entries. See the inner exception for details.
+01/03/2021 10:00:08 pm - An error occurred while updating the entries. See the inner exception for details.
+01/03/2021 10:00:23 pm - An error occurred while updating the entries. See the inner exception for details.
+01/03/2021 11:07:14 pm - An error occurred while updating the entries. See the inner exception for details.
+04/03/2021 11:33:27 pm - An error occurred while updating the entries. See the inner exception for details.
+05/03/2021 12:48:34 am - Incorrect syntax near the keyword 'DESC'.
+16/03/2021 11:11:32 pm - A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)
+16/03/2021 11:12:26 pm - Login failed for user ''.
+16/03/2021 11:13:17 pm - A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)
+16/03/2021 11:13:19 pm - An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+16/03/2021 11:13:57 pm - A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)
+16/03/2021 11:14:04 pm - Login failed for user ''.
+16/03/2021 11:15:43 pm - Value cannot be null. (Parameter 'connectionString')
+16/03/2021 11:26:01 pm - An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+16/03/2021 11:28:18 pm - An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+23/03/2021 6:10:44 am - An error occurred while updating the entries. See the inner exception for details.
+23/03/2021 7:22:24 am - Value cannot be null. (Parameter 'key')
+23/03/2021 8:04:19 am - Value cannot be null. (Parameter 'key')
+23/03/2021 8:06:37 am - Value cannot be null. (Parameter 'key')
+23/03/2021 8:12:19 am - The property 'ArticleModel.ARTICLE_TAGS' could not be mapped because it is of type 'List<string>', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.
+23/03/2021 8:18:53 am - The property 'ArticleModel.ARTICLE_TAGS' could not be mapped because it is of type 'List<string>', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.
+23/03/2021 8:19:02 am - The property 'ArticleModel.ARTICLE_TAGS' could not be mapped because it is of type 'List<string>', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.
+23/03/2021 8:20:04 am - Error parsing column 7 (ARTICLE_TAGS=[{hello}],[{Okay}] - String)
+23/03/2021 8:20:08 am - Error parsing column 7 (ARTICLE_TAGS=[{hello}],[{Okay}] - String)
+23/03/2021 8:20:27 am - Error parsing column 7 (ARTICLE_TAGS=[{hello}],[{Okay}] - String)
+23/03/2021 8:20:54 am - Error parsing column 7 (ARTICLE_TAGS=[{hello}],[{Okay}] - String)
+23/03/2021 8:20:57 am - Error parsing column 7 (ARTICLE_TAGS=[{hello}],[{Okay}] - String)
+23/03/2021 8:21:19 am - Error parsing column 7 (ARTICLE_TAGS=[{hello}],[{Okay}] - String)
+23/03/2021 8:21:39 am - Error parsing column 7 (ARTICLE_TAGS=[{hello}],[{Okay}] - String)
+23/03/2021 8:22:14 am - Error parsing column 7 (ARTICLE_TAGS=[{hello}],[{Okay}] - String)
+26/03/2021 1:24:03 am - The property 'ArticleModel.ARTICLE_TAGS' could not be mapped because it is of type 'List<string>', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.

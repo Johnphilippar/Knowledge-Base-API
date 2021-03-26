@@ -1,0 +1,12 @@
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\bin\Debug\netcoreapp3.1\CLEAN-Infrastructure-BUS.deps.json
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\bin\Debug\netcoreapp3.1\CLEAN-Infrastructure-BUS.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\bin\Debug\netcoreapp3.1\CLEAN-Infrastructure-BUS.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\bin\Debug\netcoreapp3.1\CLEAN-Domain-CORE.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\bin\Debug\netcoreapp3.1\CLEAN-Domain-CORE.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-BUS.csprojAssemblyReference.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-BUS.AssemblyInfoInputs.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-BUS.AssemblyInfo.cs
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-BUS.csproj.CoreCompileInputs.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-BUS.csproj.CopyComplete
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-BUS.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-BUS\obj\Debug\netcoreapp3.1\CLEAN-Infrastructure-BUS.pdb

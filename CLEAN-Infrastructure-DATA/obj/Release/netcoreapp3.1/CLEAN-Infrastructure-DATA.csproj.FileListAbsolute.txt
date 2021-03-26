@@ -1,0 +1,15 @@
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\bin\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.deps.json
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\bin\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.runtimeconfig.json
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\bin\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.runtimeconfig.dev.json
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\bin\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\bin\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\bin\Release\netcoreapp3.1\CLEAN-Domain.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\bin\Release\netcoreapp3.1\CLEAN-Domain.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\obj\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.csprojAssemblyReference.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\obj\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.AssemblyInfoInputs.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\obj\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.AssemblyInfo.cs
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\obj\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.csproj.CoreCompileInputs.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\obj\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.csproj.CopyComplete
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\obj\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\obj\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Infrastructure-DATA\obj\Release\netcoreapp3.1\CLEAN-Infrastructure-DATA.genruntimeconfig.cache

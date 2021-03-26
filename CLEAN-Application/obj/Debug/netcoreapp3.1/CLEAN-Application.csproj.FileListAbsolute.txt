@@ -1,0 +1,12 @@
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\obj\Debug\netcoreapp3.1\CLEAN-Application.AssemblyInfoInputs.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\obj\Debug\netcoreapp3.1\CLEAN-Application.AssemblyInfo.cs
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\obj\Debug\netcoreapp3.1\CLEAN-Application.csproj.CoreCompileInputs.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\bin\Debug\netcoreapp3.1\CLEAN-Application.deps.json
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\bin\Debug\netcoreapp3.1\CLEAN-Application.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\bin\Debug\netcoreapp3.1\CLEAN-Application.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\bin\Debug\netcoreapp3.1\CLEAN-Domain.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\bin\Debug\netcoreapp3.1\CLEAN-Domain.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\obj\Debug\netcoreapp3.1\CLEAN-Application.csprojAssemblyReference.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\obj\Debug\netcoreapp3.1\CLEAN-Application.csproj.CopyComplete
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\obj\Debug\netcoreapp3.1\CLEAN-Application.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Application\obj\Debug\netcoreapp3.1\CLEAN-Application.pdb

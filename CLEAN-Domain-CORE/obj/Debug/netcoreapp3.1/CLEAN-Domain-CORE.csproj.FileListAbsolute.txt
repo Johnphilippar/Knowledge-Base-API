@@ -1,0 +1,9 @@
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Domain-CORE\bin\Debug\netcoreapp3.1\CLEAN-Domain-CORE.deps.json
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Domain-CORE\bin\Debug\netcoreapp3.1\CLEAN-Domain-CORE.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Domain-CORE\bin\Debug\netcoreapp3.1\CLEAN-Domain-CORE.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Domain-CORE\obj\Debug\netcoreapp3.1\CLEAN-Domain-CORE.AssemblyInfoInputs.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Domain-CORE\obj\Debug\netcoreapp3.1\CLEAN-Domain-CORE.AssemblyInfo.cs
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Domain-CORE\obj\Debug\netcoreapp3.1\CLEAN-Domain-CORE.csproj.CoreCompileInputs.cache
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Domain-CORE\obj\Debug\netcoreapp3.1\CLEAN-Domain-CORE.dll
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Domain-CORE\obj\Debug\netcoreapp3.1\CLEAN-Domain-CORE.pdb
+C:\Users\JPPAR\source\repos\TPArticle\CLEAN-Domain-CORE\obj\Debug\netcoreapp3.1\CLEAN-Domain-CORE.csprojAssemblyReference.cache
